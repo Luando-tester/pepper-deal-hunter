@@ -33,7 +33,7 @@ TELEGRAM_OFFSET_FILE = STATE_DIR / "telegram_offset.json"
 TELEGRAM_HELPER = os.path.expanduser(
     "~/workspace/custom-connectors/custom.telegram/bin/telegram.py"
 )
-DEFAULT_CHAT_ID = "-5518467945"  # Nhóm PepperResearch — Kiếm tiền
+DEFAULT_CHAT_ID = "-1003951530584"  # Nhóm PepperResearch — Kiếm tiền (supergroup, migrate 16/11)
 
 _SURROGATE_RE = re.compile(r"^hsurr:[A-Za-z0-9_-]+$")
 

@@ -35,7 +35,7 @@ PENDING_DEALS_FILE = STATE_DIR / "pending_deals.json"
 ALERTS_LOG_FILE = STATE_DIR / "sent_alerts.json"
 PINNED_FILE = STATE_DIR / "pinned_messages.json"
 
-DEFAULT_CHAT_ID = TELEGRAM_CHAT_ID or "-5518467945"
+DEFAULT_CHAT_ID = TELEGRAM_CHAT_ID or "-1003951530584"
 
 # Từ khóa xác nhận hoàn thành từ Luân trên Telegram (không phân biệt hoa thường)
 DONE_KEYWORDS = ("đã thực hiện xong", "xong", "done")
